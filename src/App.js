@@ -13,7 +13,7 @@ const App = () => {
   const handleSearch = useCallback(() => {
     console.log('Search query:', query);
     
-    fetch(`http://localhost:8080/api/news?query=${query}&page=${currentPage}`)
+    fetch(`http://65.1.147.148:8080/api/news?query=${query}&page=${currentPage}`)
       .then(response => {
         console.log('Response status:', response.status);
         return response.json();
