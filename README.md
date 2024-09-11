@@ -1,8 +1,9 @@
 <<<<<<< HEAD
-Your changes here
+Your local changes
 =======
-Incoming changes here
+Changes from the remote repository
 >>>>>>> branch-name
+
 
 # ACONEWS Frontend
 This is the frontend of the ACONEWS project. It displays the latest news articles using a responsive design.
