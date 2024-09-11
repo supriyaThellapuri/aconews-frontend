@@ -1,3 +1,11 @@
+
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> branch-name
+
+
 import React, { useState, useEffect, useCallback } from 'react';
 import NewsList from './components/NewsList';
 import SearchBar from './components/SearchBar';
